@@ -35,7 +35,7 @@ data-portfolio/
 - **Week 4:** Documentation and portfolio refinement
 
 ## 📫 Contact
-- **LinkedIn:** [linkedin.com/in/piotr-go%C5%82embiewski-79507179/](https://www.linkedin.com/in/piotr-go%C5%82embiewski-79507179/)
+- **LinkedIn:** [linkedin.com/in/piotr-golembiewski/](https://www.linkedin.com/in/piotr-golembiewski/)
 - **GitHub:** [github.com/pigole](https://github.com/pigole)
 
 ## ⚙️  How to run
